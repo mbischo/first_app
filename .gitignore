@@ -3,3 +3,10 @@ db/*.sqlite3
 log/*.log
 tmp/
 .idea
+tmp/**/*
+tmp/*
+doc/api
+doc/app
+*.swp
+*˜
+. DS_Store
